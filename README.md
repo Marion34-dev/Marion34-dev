@@ -1,6 +1,7 @@
 # Hey, I'm Marion 👩‍💻
 
-I am a Junior Software Engineer, and I am currently studying at HyperionDev. I'm learning Python!
+Welcome to my GitHub! <br> 
+Please be patient - I will soon upload more projects!
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.clipartmax.com/png/small/27-276717_clients-are-also-welcome-to-provide-all-of-their-own-steaming-coffee.png">
@@ -11,3 +12,4 @@ I am a Junior Software Engineer, and I am currently studying at HyperionDev. I'm
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+-->
