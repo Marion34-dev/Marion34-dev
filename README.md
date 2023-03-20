@@ -1,7 +1,7 @@
-# Hey, I'm Marion 👩‍💻
+# Welcome to my GitHub! 👩‍💻
 
-Welcome to my GitHub! <br> 
-Please be patient - I will soon upload more projects!
+I started my journey into tech in 2022, with a bootcamp in Software Engineering, with a keen interest but not knowing if it would *really* capture my interest. And it absolutely did, I have discovered that I am genuinely enjoying programming!!! <br><br>
+I am currently learning Python 3, SQL and HTML/CSS to name a few. You will find on here some of my programs!
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.clipartmax.com/png/small/27-276717_clients-are-also-welcome-to-provide-all-of-their-own-steaming-coffee.png">
