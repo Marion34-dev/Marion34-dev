@@ -10,7 +10,7 @@ Here, you will find a collection of my personal projects, code snippets and cont
 
 Thank you for taking the time to visit my GitHub account.
 
-Happy coding!
+                                           Happy coding!
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.clipartmax.com/png/small/27-276717_clients-are-also-welcome-to-provide-all-of-their-own-steaming-coffee.png">
