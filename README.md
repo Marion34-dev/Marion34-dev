@@ -21,14 +21,13 @@ Here, you will find a collection of my personal projects, code snippets and cont
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,html,css,mongodb,react,vite,bootstrap,git,github,nodejs,replit,vscode,django )](https://skillicons.dev)
 
-📚 I have recently passed the Java Foundations Associate exam <br>
-🤖 In my spare time, I am working on writing a program that will control a drone, using both Python and C++ <br>
-💻 I am looking at deploying a small Twitter clone application <br>
-🐍 I am using Python on a Udemy course
+✅ I have recently passed the Java Foundations Associate exam <br>
+💻 I am writing a program that controls a drone, using both Python and C++ <br>
+📚 I keep upskilling by taking online courses
 
 
 Have a look at my <a href="https://www.linkedin.com">Linkedin</a> profile for more info! <br>
-Or at my <a href="https://replit.com/@Marion12345">Replit account</a> to follow my Python journey
+Or at my <a href="https://replit.com/@Marion12345">Replit account</a> to follow some of my Python journey
 
   
 <div align="center">
