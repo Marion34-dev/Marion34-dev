@@ -13,7 +13,7 @@ Have a look at my <a href="https://www.linkedin.com">Linkedin</a> profile for mo
   
 | Stats of my GitHub profile                                                                                               |  Here is a random joke that will make you laugh!                      
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- 
-| ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marion34-dev&theme=blue-green) | ![Jokes Card](https://readme-jokes.vercel.app/api)  
+| ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marion34-dev&hide=html,css&theme=blue-green) | ![Jokes Card](https://readme-jokes.vercel.app/api)  
 
 </div>
 
