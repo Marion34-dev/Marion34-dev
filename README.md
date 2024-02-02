@@ -8,7 +8,7 @@ I'm a passionate Software Engineer with a thorough attention to detail and a pro
 
 Here, you will find a collection of my personal projects, code snippets and contributions. I love how coding can have a meaningful impact!
 
-Have a look at my <a href="https://www.linkedin.com">Linkedin</a> profile for more information! <br>
+Have a look at my <a href="https://www.linkedin.com">Linkedin</a> profile or my <a href="https://website-29l5.onrender.com"> Website </a> for more information! <br>
 
   
 | Stats of my GitHub profile                                                                                               |  Here is a random joke that will make you laugh!                      
